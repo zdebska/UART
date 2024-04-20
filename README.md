@@ -15,3 +15,6 @@ The UART_RX circuit will receive individual bits on the DIN input data port, de-
 2. Implement the designed RTL circuit from the first part of the project in VHDL in the file uart_rx.vhd.
 Put the code corresponding to the final automaton into the file uart_rx_fsm.vhd.
 Perform synthesis and simulation of VHDL code by running the prepared uart.sh script using GHDL and GTKWave.
+
+## Results
+My circuit, FSM, and a screenshot of the simulation you can see in [zprava](https://github.com/zdebska/UART/blob/main/zprava.pdf).
